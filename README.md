@@ -1,5 +1,4 @@
-# executable-file-for-macro
-Executable VBScript file for runs the macro
+# Executable VBScript file for runs the macro
 
 
 There is an Excel Macro File with a macro called "Cycle".
@@ -13,4 +12,8 @@ Our mission has two elements:
 There are following:
 1. Two different CSV files as an example for the files before cleanup.
 2. The macro book ''Macro-Workbook''. Inside there is a macro called "Cycle"
- 
+
+## How to use
+ * Download the latest files 
+ * Change `strDirPath` and `strMacroFilePath` in ``RunIt.vbs`` file
+ * Run ``RunIt.vbs`` file
